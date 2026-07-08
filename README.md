@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/Sagar327/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sagar327/DSA-LEARNING/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sagar327/DSA-LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sagar327/DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0075-sort-colors](https://github.com/Sagar327/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sagar327/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sagar327/DSA-LEARNING/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sagar327/DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sagar327/DSA-LEARNING/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sagar327/DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
