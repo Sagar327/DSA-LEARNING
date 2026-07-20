@@ -52,10 +52,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sagar327/DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sagar327/DSA-LEARNING/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Sagar327/DSA-LEARNING/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sagar327/DSA-LEARNING/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/Sagar327/DSA-LEARNING/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sagar327/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sagar327/DSA-LEARNING/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sagar327/DSA-LEARNING/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
